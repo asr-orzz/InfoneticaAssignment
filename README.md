@@ -216,8 +216,3 @@ Submitted by **Aneesh Singh Rajoriya**
 for the **Infonetica Software Engineer Intern Assignment**
 
 ```
-
----
-
-Let me know if you’d like this saved as a file or need help pushing the final repo to GitHub. ✅
-```
